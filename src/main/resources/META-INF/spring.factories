@@ -1,0 +1,2 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.baidu.acg.iid.common.openapi.OpenApiConfigServicePropertySourceLocator
